@@ -1,0 +1,38 @@
+<!-- activity_waitlist.xml -->
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Checkbox for email verification -->
+    <CheckBox
+        android:id="@+id/emailVerifiedCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email Verified"
+        android:checked="false"
+        android:layout_marginTop="16dp" />
+
+    <!-- Checkbox for application submission -->
+    <CheckBox
+        android:id="@+id/applicationSubmittedCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Application Submitted"
+        android:checked="false"
+        android:layout_below="@id/emailVerifiedCheckBox"
+        android:layout_marginTop="16dp" />
+
+    <!-- Checkbox for verification stage -->
+    <CheckBox
+        android:id="@+id/verificationStageCheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Verification Stage Completed"
+        android:checked="false"
+        android:layout_below="@id/applicationSubmittedCheckBox"
+        android:layout_marginTop="16dp" />
+
+</RelativeLayout>

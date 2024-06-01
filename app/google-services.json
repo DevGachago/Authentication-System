@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "953048308569",
+    "firebase_url": "https://chattme-2f751-default-rtdb.firebaseio.com",
+    "project_id": "chattme-2f751",
+    "storage_bucket": "chattme-2f751.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953048308569:android:78814e1f25075a8a524a48",
+        "android_client_info": {
+          "package_name": "com.example.auuthenticationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953048308569-b362k0ij0lep3iao0602475st7e5rhb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj9leHoDQGRRULaoKFPgQFZjwbFrZwxBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953048308569-b362k0ij0lep3iao0602475st7e5rhb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953048308569:android:9666229ad4e76af8524a48",
+        "android_client_info": {
+          "package_name": "com.example.tubonge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953048308569-b362k0ij0lep3iao0602475st7e5rhb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj9leHoDQGRRULaoKFPgQFZjwbFrZwxBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953048308569-b362k0ij0lep3iao0602475st7e5rhb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

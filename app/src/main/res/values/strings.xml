@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Auuthentication System</string>
+    <string name="verification_text">
+        Please note this is the verification stage upload your\n
+        most current document among the accepted ones to\n
+        continue also check your mail to verify your email\n
+        address.Also if you had submitted documents,just\n
+        click the "Submit Document"  button</string>
+    <string name="capture">Capture</string>
+    <string name="welcome_to_tubonge">Welcome to Tubonge!</string>
+    <string name="start_sending_spending_and_saving_with_cash_app">Start communicating, sending, spending, saving and advertising with Tubonge.</string>
+</resources>

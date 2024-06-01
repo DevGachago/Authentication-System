@@ -1,0 +1,13 @@
+<!-- cash_app_logo.xml -->
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Background shape (rounded rectangle) -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="8dp" /> <!-- Adjust radius as needed -->
+            <solid android:color="@color/colorPrimary" /> <!-- Set background color -->
+        </shape>
+    </item>
+    <!-- Cash App logo (placeholder) -->
+    <item android:drawable="@drawable/money_24" /> <!-- Replace with your Cash App logo drawable -->
+</layer-list>
